@@ -168,4 +168,3 @@ If you use this code or data, please cite:
 ## License
 
 Code is released under the [MIT License](LICENSE).  
-The camera-ready PDF is © the authors and IEEE/ACM 2026; redistribution follows the conference's copyright policy.
