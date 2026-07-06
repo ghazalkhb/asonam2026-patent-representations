@@ -5,7 +5,6 @@
 > G. Khodabandeh, L. Tahmooresnejad, N. Ezzati-Jivan, A. Ayanso  
 > Brock University, St. Catharines, ON, Canada
 
-[📄 Camera-ready PDF](paper/ASONAM2026_camera_ready.pdf)
 
 ---
 
